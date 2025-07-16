@@ -36,9 +36,3 @@ Welcome to my portfolio! This repository includes real-world analysis and dashbo
   - Financial leverage and liquidity metrics
 
 ---
-
-## 👩‍💻 About Me
-
-My name is **Anhar Alayadah**, I hold a Pharmacy degree and have transitioned into supply chain and procurement through certifications (CISCP, CISCM), hands-on analytics training, and projects like the ones included here.
-
-This portfolio represents my passion for turning complex data into decision-making tools — especially in the healthcare and pharmaceutical sectors.
